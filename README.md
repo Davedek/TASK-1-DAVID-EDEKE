@@ -1,11 +1,11 @@
-#Decode Labs Data Analytics Internship
+# Labs Data Analytics Internship
 This repository contains data analytics projects completed during my Data Analytics Internship at Decodelabs.
 
-##Projects
+## Projects
 Project 1 – Data Cleaning
 A data-cleaning project completed using Microsoft Excel.
 
-###Key tasks included:
+### Key tasks included:
 
 Checked for duplicate records (none found)
 Cleaning and standardizing text data
