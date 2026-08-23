@@ -1,4 +1,4 @@
-# Labs Data Analytics Internship
+# DecodeLabs Data Analytics Internship
 This repository contains data analytics projects completed during my Data Analytics Internship at Decodelabs.
 
 ## Project 1 – Data Cleaning
